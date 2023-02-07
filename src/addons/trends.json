@@ -1,0 +1,27 @@
+[
+  {
+    "tendencia": "Tendencias",
+    "trend": "Noticia 1",
+    "cantidad": "30.5 Mil tweets"
+  },
+  {
+    "tendencia": "Tendencia en Argentina",
+    "trend": "Noticia 2",
+    "cantidad": "10.5 Mil tweets"
+  },
+  {
+    "tendencia": "Tendencias",
+    "trend": "Noticia 3",
+    "cantidad": "20.5 Mil tweets"
+  },
+  {
+    "tendencia": "Tendencia en Argentina",
+    "trend": "Noticia 4",
+    "cantidad": "80 Mil tweets"
+  },
+  {
+    "tendencia": "Deportes ‧ Tendencia",
+    "trend": "Noticia 5",
+    "cantidad": "45 Mil tweets"
+  }
+]
